@@ -1,8 +1,10 @@
-🐔 Crossy Road - 2D OpenGL Clone
+🐔 Crossy Road - 2D OpenGL Clone   
+
 A simple 2D action game project similar with the mobile hit Crossy Road.
 
 
 📝 About the Project
+
 The goal of the game is to guide a chicken across a busy highway. Players must navigate through six lanes of traffic to reach the top of the screen. Each successful crossing increases your score and advances you to the next level.
 
 
