@@ -1,5 +1,5 @@
 🐔 Crossy Road - 2D OpenGL Clone
-A simple 2D action game project developed for the Computer Graphics (Elemente de Grafică pe Calculator) course. The project is a tribute to the classic arcade game Frogger and the modern mobile hit Crossy Road.
+A simple 2D action game project similar with the mobile hit Crossy Road.
 
 
 📝 About the Project
